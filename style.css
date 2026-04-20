@@ -9,7 +9,7 @@ p{
 .intro-paragraph{
     color: blueviolet;
 }
-#color-box{
-    background-color: rgb(211, 183, 46);
+div{
+    background-color: rgb(106, 198, 81);
     color: antiquewhite;
 }
